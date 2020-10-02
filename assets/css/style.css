@@ -109,7 +109,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*moved img tag to a more logical order */
 img {
     max-height: 200px;
 }
@@ -173,7 +173,7 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* changed the h2 tag in the footer to h4 */
 .footer h4 {
     font-size: 20px;
 }
