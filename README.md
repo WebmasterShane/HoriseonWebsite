@@ -7,8 +7,8 @@ My goal was to refactor the websites syntax.
 
 ## My Contribution
 
-I deployed semantic html elements (replacing <div>) to make the code easier to read.
-for example, <section>, <aside>,<nav>, and <footer>.
+I deployed semantic html elements (replacing div) to make the code easier to read.
+for example, section, aside, nav, and footer.
 I restructed elements into a logical order so as to read the document top to bottom
 and have the elements show up under the tags appropriate to their placement on the page
 i consolidated redundant css class tags 
