@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Horiseon Website Refactor
 
 Horiseon is a marketing agency, with a focus on the marketing needs of companies in the digital age.
@@ -22,3 +23,6 @@ Pull requests are welcome.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# HoriseonHomeWork
+>>>>>>> 9218b743c98a5f4b8c07b36b2a0a5494b9389596
