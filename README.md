@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Horiseon Website Refactor
 
 Horiseon is a marketing agency, with a focus on the marketing needs of companies in the digital age.
